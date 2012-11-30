@@ -1,0 +1,343 @@
+div 
+   {
+    line-height: 19px;
+    text-align: left;
+    word-wrap: break-word;
+   }
+   body 
+   {
+    background: #fff;
+    font-family: tahoma,helvetica,arial,'bitstream vera sans',sans-serif;
+    font-size: 12px;
+    text-align: center;
+	font-weight:normal;
+   }
+   select 
+   {
+    font-size: 12px;
+   }
+   a
+   {
+    text-decoration: none;
+   }
+
+   input, textarea 
+   {
+    font-size: 12px;
+    padding: 3px;
+	
+   }
+   select 
+   {
+    font-size: 12px;
+   }
+   ul, dl, ol 
+   {
+    list-style: none outside none;
+   }
+   label
+   {
+    font-size:12px;
+	font-weight:normal;
+   }
+   #head
+   { 
+     background:url("image/headbg.png") repeat-x;
+     z-index:30001;
+     position:absolute;
+	 width:100%;
+	 height:42px;
+	 top:0px;
+	 left:0px;
+   }
+   #head .hd
+   {
+    margin:0px auto;
+	margin-right:auto;
+	width:1005px;
+   }
+   #head .logo
+   {
+    background:url("image/logo.png") no-repeat;
+	width:99px;
+	display:inline;
+	float:left;
+	height:30px;
+	margin:5px 31px 0px 10px;
+   }
+   #head .headmoreaction
+   {
+    float:right;
+	color:#ccc;
+	display:inline;
+	margin:0px 12px 1px 0px;
+	padding:10px;
+   }
+   #head .headmoreaction .headlink
+   {
+    color:#fad9db;
+	text-decoration:none;
+	padding-left:2px;
+	width:auto;
+	height:40px;
+	margin-top:10px;
+   }
+   #reg_main
+   {
+    width:1005px;
+	height:596px;
+	padding-top:41px;
+	margin-right:auto;
+	margin-left:auto;
+   }
+   #reg_main .reg_cont
+   {
+    float:left;
+	width:508px;
+	height:560px;
+	margin-top:29px;
+	margin-left:74px;
+	display:inline;
+   }
+   #reg_main .reg_cont .reg_title
+   {
+    float:left;
+	position:relative;
+   }
+   #reg_main .reg_cont .reg_title h3
+   {
+    color:#696969;
+	font-family:свт╡;
+	font-size:20px;
+	margin-top:9px;
+	margin-bottom:10px;
+	margin-left:35px;
+
+   }
+   #reg_main .reg_cont .reg_tit 
+   {
+    float: left;
+    height: 26px;
+    padding-top: 2px;
+    text-align: justify;
+    width: 70px;
+	font-family: tahoma,helvetica,arial,'bitstream vera sans',sans-serif;
+    font-size: 12px;
+	font-weight:normal;
+   }
+   #reg_main .reg_cont .reg_element 
+   {
+    float: left;
+    position: relative;
+    width: 240px;
+   }
+   #reg_main .reg_cont .reg_element .inp_box 
+   {
+    border: 1px solid #BBBBBB;
+    display: table;
+    margin-bottom: 4px;
+   }
+   #reg_main .reg_cont .reg_element .inp_box input
+   {
+    width:230px;
+   }
+
+   #reg_main .reg_cont .c9
+   {
+    color: #999999;
+    font-family: Arial;
+	font-size:12px;
+	font-weight:normal;
+   }
+   #reg_main .reg_cont .reg_box
+   {
+    float:left;
+   }
+   #reg_main .reg_cont .reg_box li 
+   {
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+   }
+   #reg_main .reg_cont .reg_labWidth 
+   {
+    display: inline-block;
+	float:left;
+    margin-left: 3px;
+    width: 74px;
+   }
+   .vm 
+   {
+    vertical-align: middle;
+   }
+   .reg_element select 
+   {
+    height: 21px;
+    padding-top: 2px;
+   }
+   .w65 
+   {
+    width: 65px;
+   }
+   .l
+   {
+    float:left;
+   }
+   .reg_timeinto
+   {
+    float: left;
+    margin: 0 3px;
+   }
+   .w50 
+   {
+    width: 50px;
+   }
+   .reg_space 
+   {
+    margin: 0 6px;
+   }
+   .reg_box li.reg_bt 
+   {
+    margin: -4px 0 15px;
+    padding-left: 67px;
+    width: 427px;
+   }
+   .btn_yes14 
+   {
+    border: 1px solid #F9A4B2;
+    display: -moz-inline-stack;
+    vertical-align: middle;
+   }
+   .btn_yes14 input
+   {
+    font-size: 14px;
+    height: 24px;
+    padding-top: 2px;
+	color: #FFFFFF;
+   }
+   #reg_opera
+   {
+    float:left;
+	padding-left:67px;
+   }
+   .reg_reco 
+   {
+    float: left;
+	background: url("http://img1.kaixin001.com.cn/i/register/reseau_bg.png") repeat scroll 0 0 transparent;
+    border: 1px solid #EEEEEE;
+	height: auto;
+    margin: 38px 0 0;
+    padding: 0;
+    width: 351px;
+   }
+   .yet_reg_box 
+   {
+    display: block;
+    padding: 21px 0 30px 30px;
+   }
+   .f14 
+   {
+    font-size: 14px;
+   }
+   .ml30 
+   {
+    margin-left: 30px;
+   }
+   .c6
+   {
+    color: #666666;
+    font-family: Arial;
+   }
+   .kx_detialBox 
+   {
+    background: url("image/kx.png") no-repeat;
+	padding-left:10px;
+    height: 190px;
+    width: 340px;
+	margin-top:20px;
+    margin-left:21px;
+   }
+   .qq
+   {
+    width: 351px;
+	border-top:#bbbbbb 1px solid;
+   }
+
+   .im
+   {
+    margin-left:30px;
+   }
+   .im img
+   {
+    padding-right:5px;
+   }
+  
+   #footer 
+   {
+    border-top: 1px solid #BBBBBB;
+    height: auto;
+    margin-left: auto;
+	margin-right:auto;
+    overflow: hidden;
+    padding: 0 0 50px;
+    width: 1004px;
+   }
+   #footer .left 
+   {
+    float: left;
+    line-height: 40px;
+	margin-left: -8px;
+   }
+   #footer .left a 
+   {
+    color: #336699;
+    margin: 0 8px;
+    text-decoration: none;
+   }
+   #footer .right 
+   {
+    color: #999999;
+    float: right;
+    line-height: 40px;
+   }
+  #footer .footerInfo 
+  {
+    background: none repeat scroll 0 0 #F0EFEF;
+    color: #999999;
+    height: 27px;
+    line-height: 27px;
+    text-align: center;
+	font-size:12px;
+   }
+  #footer .clearfix:after 
+  {
+    clear: both;
+    content: ".";
+    display: block;
+    font-size: 0;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+   }
+  .clearfix 
+  {
+    display: block;
+	font-size:12px;
+  }
+  #footer .footerInfo span 
+  {
+    background: url("http://img1.kaixin001.com.cn/i/dot2.jpg") no-repeat scroll left center transparent;
+    display: inline-block;
+    line-height: 26px;
+  }
+  #footer .footerInfo span 
+  {
+    margin-right: 15px;
+    padding-left: 17px;
+    vertical-align: top;
+  }
+  #footer .footerInfo span a
+  {
+   color: #999999;
+   text-decoration: none;
+  }
